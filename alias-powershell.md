@@ -1,5 +1,5 @@
 #### Pour la découverte des commandes un simple _alias_ dans une console powershell permet d'afficher tous les alias.
-#### Pour une recherche ciblé on peut utiliser la commande Get-Alias _alias_.
+#### Pour une recherche ciblé on peut utiliser la commande Get-Alias "_alias_".
 
 
 | Commande Linux | Commande Powershell | Commande pour la trouver
