@@ -1,14 +1,20 @@
 ## Solution de quête DHCP avec Windows Server
 
-### Configuration de Windows Server avec le nom de la machine SRV-DHCP et son adresse ip fixe.
-### Ainsi que le pool d'adresse.
+#### 1) Configuration de Windows Server avec le nom de la machine SRV-DHCP et son adresse ip fixe, ainsi que le pool d'adresse.   
 
+![image](dhcp-img/DHCP-SRV1.png)  
 
-### Configuration IP du premier Client. 
+---  
 
+#### 2) Configuration IP du premier Client.   
+![image](dhcp-img/DHCP-Client1.png)  
 
-### Configuration IP du deuxième Client. 
+---  
 
+#### 3) Configuration IP du deuxième Client.   
+![image](dhcp-img/DHCP-Client2-Statique.png)  
 
+---  
 
-### Affichage de la fenêtre de réservation sur le serveur Windows Server. 
+#### 4) Affichage de la fenêtre de réservation sur le serveur Windows Server.   
+![image](dhcp-img/DHCP-Static.png)  
