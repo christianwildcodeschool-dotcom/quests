@@ -11,7 +11,7 @@
 
 ---  
 
-#### 3) Configuration IP du deuxième Client.   
+#### 3) Configuration IP du deuxième Client qui utilise l'adresse réservé.   
 ![image](dhcp-img/DHCP-Client2-Statique.png)  
 
 ---  
