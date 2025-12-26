@@ -286,6 +286,8 @@ c) Utilisateur **Direction**
 
 ![img](partage_fichiers_img/05_configuration_lecteurs_reseau/07_lecteur_reseau_client.png)
 
+- - - 
+
 2) Entrer la commande `New-PSDrive -Name "H" -PSProvider FileSystem -Root "\\SRVWIN01\Comptabilité\" -Persist`
 
 ![img](partage_fichiers_img/05_configuration_lecteurs_reseau/08_lecteur_reseau_client.png)
