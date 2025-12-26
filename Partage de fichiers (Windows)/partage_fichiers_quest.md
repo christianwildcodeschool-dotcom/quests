@@ -5,9 +5,9 @@
 - **B** - [Configuration des dossiers de partage](#b-configuration-des-dossiers-de-partage)  
 - **C** - [Configuration des autorisations utilisateurs](#c-configuration-des-autorisations-utilisateurs)  
 - **D** - [Configuration des autorisations utilisateurs des sous-dossiers](#d-configuration-des-autorisations-utilisateurs-des-sous-dossiers)  
-- **E** - [Mappage des lecteurs réseaux](#d-mappage-des-lecteurs-réseaux)  
-- **F** - [Vérification des permissions](#e-vérification-des-permissions)  
-- **G** - [Pour résumer les permissions](#f-pour-résumer-les-permissions)
+- **E** - [Mappage des lecteurs réseaux](#e-mappage-des-lecteurs-réseaux)  
+- **F** - [Vérification des permissions](#f-vérification-des-permissions)  
+- **G** - [Pour résumer les permissions](#g-pour-résumer-les-permissions)
 
 ---  
 
