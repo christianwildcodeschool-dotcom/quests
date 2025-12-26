@@ -102,7 +102,7 @@
 
 ---  
 
-- Vérifier les informations du partages et cliquer sur **Créer**
+- Vérifier les informations du partage et cliquer sur **Créer**
 
 ![img](partage_fichiers_img/02_img_new_partage/09_new_partage.png)
 
