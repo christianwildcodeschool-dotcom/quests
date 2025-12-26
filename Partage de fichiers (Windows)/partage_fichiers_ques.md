@@ -147,7 +147,7 @@
 
 ---  
 
-1) Entrer le mot **Utilisateurs**
+1) Entrer le mot `Utilisateurs`
 2) Cliquer sur **Vérifier les noms**
 
 ![img](partage_fichiers_img/03_permissions_dossier_partage/04_permissions_dossier_partage.png)
