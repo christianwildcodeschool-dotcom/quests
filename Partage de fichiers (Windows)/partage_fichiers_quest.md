@@ -3,7 +3,7 @@
 ### Table des matières
 - **A** - [Installation du Rôle Serveur de fichiers](#a-installation-du-service-de-partage-de-fichier-terminé-)  
 - **B** - [Configuration des dossiers de partage](#b-configuration-des-dossiers-de-partage)  
-- **C** - [Configuration des autorisations utilisateurs](#c-configuration-des-autorisations-utilisateurs)  
+- **C** - [Configuration des autorisations utilisateurs du dossier Documents_Entreprise](#c-configuration-des-autorisations-utilisateurs-du-dossier-documents-entreprise)  
 - **D** - [Configuration des autorisations utilisateurs des sous-dossiers](#d-configuration-des-autorisations-utilisateurs-des-sous-dossiers)  
 - **E** - [Mappage des lecteurs réseaux](#e-mappage-des-lecteurs-réseaux)  
 - **F** - [Vérification des permissions](#f-vérification-des-permissions)  
