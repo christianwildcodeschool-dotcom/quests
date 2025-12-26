@@ -1,5 +1,13 @@
 # Procédure de configuration du Partage de fichiers sur Windows 
 
+### Table des matières
+- **A** - [Installation du Rôle Serveur de fichiers](#a-installation-du-service-de-partage-de-fichier-terminé-)  
+- **B** - [Configuration des dossiers de partage](#b-configuration-des-dossiers-de-partage)  
+- **C** - [Configuration des autorisations utilisateurs](#c-configuration-des-autorisations-utilisateurs)  
+- **D** - [Configuration des lecteurs réseaux](#d-configuration-des-lecteurs-réseaux)  
+- **E** - [Vérification des permissions](#e-vérification-des-permissions)  
+- **F** - [Pour résumer les permissions](#f-pour-résumer-les-permissions)
+
 ### A) Installation du Rôle **Serveur de fichiers**
 
 - Le rôle partage de fichier est par défaut installé sur Windows Serveur, dans le cas contraire suivez la procédure ci-dessous. 
@@ -292,7 +300,7 @@ c) Utilisateur **Direction**
 
 ---  
 
-### F) Pour résumé
+### F) Pour résumer les permissions 
 
 1) Les utilisateurs de la direction ont les droits de lecture et d'écriture à **tous les dossiers** des autres utilisateurs
 
