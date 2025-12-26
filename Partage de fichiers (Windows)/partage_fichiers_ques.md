@@ -22,20 +22,20 @@
 1) Cliquer sur **Suivant** jusqu'à l'étape **Rôles de serveurs**
 2) Sélectionner **Services de fichiers et stockage**, ainsi que **Serveur de fichiers** et **Services de stockage** dans la sous-catégorie
 
-![img](partage_fichiers_img/01_img_role_partage02_role_partage.png)
+![img](partage_fichiers_img/01_img_role_partage/02_role_partage.png)
 
 ---  
 
 1) A l'étape de **Confirmation**, vérifier que les services installés sont bien présents
 2) Cliquer sur **Installer**
 
-![img](partage_fichiers_img/01_img_role_partage03_role_partage.png)
+![img](partage_fichiers_img/01_img_role_partage/03_role_partage.png)
 
 ---  
 
 #### =====  Installation du service de partage de fichier terminé =====
 
-![img](partage_fichiers_img/01_img_role_partage04_role_partage.png)
+![img](partage_fichiers_img/01_img_role_partage/04_role_partage.png)
 
 
 ---  
