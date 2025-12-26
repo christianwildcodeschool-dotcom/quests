@@ -5,7 +5,7 @@
 - **B** - [Configuration des dossiers de partage](#b-configuration-des-dossiers-de-partage)  
 - **C** - [Configuration des autorisations utilisateurs](#c-configuration-des-autorisations-utilisateurs)  
 - **D** - [Configuration des autorisations utilisateurs des sous-dossiers](#d-configuration-des-autorisations-utilisateurs-des-sous-dossiers)  
-- **E** - [Configuration des lecteurs réseaux](#d-configuration-des-lecteurs-réseaux)  
+- **E** - [Mappage des lecteurs réseaux](#d-mappage-des-lecteurs-réseaux)  
 - **F** - [Vérification des permissions](#e-vérification-des-permissions)  
 - **G** - [Pour résumer les permissions](#f-pour-résumer-les-permissions)
 
@@ -246,7 +246,7 @@
 
 ---  
 
-### E) Configuration des lecteurs réseaux
+### E) Mappage des lecteurs réseaux
 
 a) Utilisateurs **Comptabilité**
 
