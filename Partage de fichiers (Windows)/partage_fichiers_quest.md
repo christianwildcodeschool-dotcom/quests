@@ -321,7 +321,7 @@ c) Utilisateur **Direction**
 
 ### G) Pour résumer les permissions 
 
-1) Les utilisateurs de la direction ont les droits de lecture et d'écriture à **tous les dossiers** des autres utilisateurs
+1) Les utilisateurs de la direction ont les droits de lecture et d'écriture à **tous les dossiers** des autres groupes et utilisateurs
 
 2) Les utilisateurs de la comptabilité ont les droits de lecture et d'écriture seulement au dossier partagé **Comptabilité** 
 
