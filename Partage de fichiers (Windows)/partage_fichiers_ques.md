@@ -8,6 +8,9 @@
 - **E** - [Vérification des permissions](#e-vérification-des-permissions)  
 - **F** - [Pour résumer les permissions](#f-pour-résumer-les-permissions)
 
+---  
+
+
 ### A) Installation du Rôle **Serveur de fichiers**
 
 - Le rôle partage de fichier est par défaut installé sur Windows Serveur, dans le cas contraire suivez la procédure ci-dessous. 
