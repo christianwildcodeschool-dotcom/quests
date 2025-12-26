@@ -4,9 +4,10 @@
 - **A** - [Installation du Rôle Serveur de fichiers](#a-installation-du-service-de-partage-de-fichier-terminé-)  
 - **B** - [Configuration des dossiers de partage](#b-configuration-des-dossiers-de-partage)  
 - **C** - [Configuration des autorisations utilisateurs](#c-configuration-des-autorisations-utilisateurs)  
-- **D** - [Configuration des lecteurs réseaux](#d-configuration-des-lecteurs-réseaux)  
-- **E** - [Vérification des permissions](#e-vérification-des-permissions)  
-- **F** - [Pour résumer les permissions](#f-pour-résumer-les-permissions)
+- **D** - [Configuration des autorisations utilisateurs des sous-dossiers](#d-configuration-des-autorisations-utilisateurs-des-sous-dossiers)  
+- **E** - [Configuration des lecteurs réseaux](#d-configuration-des-lecteurs-réseaux)  
+- **F** - [Vérification des permissions](#e-vérification-des-permissions)  
+- **G** - [Pour résumer les permissions](#f-pour-résumer-les-permissions)
 
 ---  
 
@@ -123,7 +124,7 @@
 
 ---  
 
-### C) Configuration des autorisations utilisateurs
+### C) Configuration des autorisations utilisateurs du dossier **Documents_Entreprise**
 
 - Faire **Clic droit** sur le dossier **Documents_Entreprise** et **Propriétés**
 
@@ -169,6 +170,15 @@
 
 ---  
 
+### D) Configuration des autorisations utilisateurs des sous-dossiers
+
+
+- Utilisateurs et Groupes présents sur le serveur
+
+![img](partage_fichiers_img/04_dossiers_autorisations/00_dossiers_autorisations.png)
+
+---  
+
 - Créer 3 dossiers (Comptabilité, Direction, RH):
     - soit avec **clic droit**
     - soit avec `CTRL` + `SHIFT` + `N`
@@ -192,9 +202,6 @@
 
 ---  
 
-- Utilisateurs et Groupes présents sur le serveur
-
-![img](partage_fichiers_img/04_dossiers_autorisations/00_dossiers_autorisations.png)
 
 #### a) Partage dossier **Comptabilité**
 - Comme pour les autorisations de partages du dossiers **Docs**
@@ -204,12 +211,16 @@
 
 ![img](partage_fichiers_img/04_dossiers_autorisations/04_dossiers_autorisations.png)
 
+---  
+
 #### b) Partage du dossier **Direction**
 
 1) Ajouter le groupes **Direction**
 2) Mettre le groupe en **Modifier** et **Lecture**
 
 ![img](partage_fichiers_img/04_dossiers_autorisations/05_dossiers_autorisations.png)
+
+---  
 
 #### c) Partage du dossier **RH**
 
@@ -218,6 +229,7 @@
 
 ![img](partage_fichiers_img/04_dossiers_autorisations/06_dossiers_autorisations.png)
 
+---  
 
 #### =====  Création des dossiers et configuration des permissions terminée =====
 
@@ -234,7 +246,7 @@
 
 ---  
 
-### D) Configuration des lecteurs réseaux
+### E) Configuration des lecteurs réseaux
 
 a) Utilisateurs **Comptabilité**
 
@@ -250,6 +262,8 @@ a) Utilisateurs **Comptabilité**
 
 ![img](partage_fichiers_img/05_configuration_lecteurs_reseau/03_lecteur_reseau_client.png)
 
+---  
+
 b) Utilisateurs **RH**
 
 1) Entrer la commande `New-PSDrive -Name "G" -PSProvider FileSystem -Root "\\SRVWIN01\RH\" -Persist`
@@ -263,6 +277,8 @@ b) Utilisateurs **RH**
 3) Vérification dans l'explorateur de fichier
 
 ![img](partage_fichiers_img/05_configuration_lecteurs_reseau/06_lecteur_reseau_client.png)
+
+---  
 
 c) Utilisateur **Direction**
 
@@ -288,7 +304,7 @@ c) Utilisateur **Direction**
 
 ---  
 
-### E) Vérification des permissions 
+### F) Vérification des permissions 
 
 - Essai à partir d'un utilisateur de la comptabilité
 
@@ -303,7 +319,7 @@ c) Utilisateur **Direction**
 
 ---  
 
-### F) Pour résumer les permissions 
+### G) Pour résumer les permissions 
 
 1) Les utilisateurs de la direction ont les droits de lecture et d'écriture à **tous les dossiers** des autres utilisateurs
 
