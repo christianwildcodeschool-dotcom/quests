@@ -313,7 +313,7 @@ c) Utilisateur **Direction**
 
 - Par la commande powershell le dossier sera mappé mais il ne sera accessible. 
 
-- Avec l'assistant de mappage par l'interface graphique, il est impossible de mapper un dossier où l'utilisateur n'a pas d'autorisation. 
+- Avec l'assistance de mappage par l'interface graphique, il est impossible de mapper un dossier où l'utilisateur n'a pas d'autorisation. 
 
 ![img](partage_fichiers_img/06_verification_permissions/02_permissions_dossiers.png)
 
