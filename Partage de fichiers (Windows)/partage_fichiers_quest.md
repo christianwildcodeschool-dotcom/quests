@@ -179,7 +179,7 @@
 
 ---  
 
-- Créer 3 dossiers (Comptabilité, Direction, RH):
+- Créer 3 dossiers (Comptabilité, Direction, RH) dans le dossier partagé **"Documents_Entreprise"** :
     - soit avec **clic droit**
     - soit avec `CTRL` + `SHIFT` + `N`
 
