@@ -215,7 +215,7 @@
 
 #### b) Partage du dossier **Direction**
 
-1) Ajouter le groupes **Direction**
+1) Ajouter le groupe **Direction**
 2) Mettre le groupe en **Modifier** et **Lecture**
 
 ![img](partage_fichiers_img/04_dossiers_autorisations/05_dossiers_autorisations.png)
